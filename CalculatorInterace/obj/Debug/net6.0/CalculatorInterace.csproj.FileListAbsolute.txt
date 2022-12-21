@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\bin\Debug\net6.0\CalculatorInterace.exe
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\bin\Debug\net6.0\CalculatorInterace.deps.json
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\bin\Debug\net6.0\CalculatorInterace.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\bin\Debug\net6.0\CalculatorInterace.dll
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\bin\Debug\net6.0\CalculatorInterace.pdb
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.dll
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\refint\CalculatorInterace.dll
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.pdb
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\CalculatorInterace.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Lab\CalculatorWithInterface\CalculatorInterace\CalculatorInterace\obj\Debug\net6.0\ref\CalculatorInterace.dll
